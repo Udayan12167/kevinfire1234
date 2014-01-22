@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Shabbo not your day
+=======
+Shabbo not your day
+>>>>>>> fc61e2e3c1e084ef5dfe271e95868a677fdcf66b
